@@ -16,9 +16,5 @@
 - **React Native:** Mobile app development.
 - **Microservices & Golang:** Advanced architecture and performance optimization.
 
-## 🧩 Work Methodology
-- **Agile:** Iterative, task breakdown, clean and maintainable code.
-- **Continuous learning:** Always seeking ways to improve and learn from the community.
-
 ## 📬 Get in Touch
 - **Email:** [vuducminh366@gmail.com](mailto:vuducminh366@gmail.com)
