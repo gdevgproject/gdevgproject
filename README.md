@@ -1,20 +1,20 @@
 # Vũ Đức Minh - Full Stack Web Developer (Intern)
 
-## 🔑 Key Skills
+## 🔑 Kỹ Năng Chính
 
 - **Frontend:** JavaScript, React, TailwindCSS, MUI, HTML5, CSS3
 - **Backend:** Node.js, Express, MongoDB, MVC
 - **Version Control:** Git, GitHub
 
-## 🚀 Current Learning (Short-term & Long-term Goals)
+## 🚀 Học Tiếp (Mục Tiêu Ngắn Hạn & Dài Hạn)
 
-### Short-term:
-- **Next.js:** Mastering SSR and static site generation.
+### Ngắn hạn:
+- **Next.js:** Thành thạo SSR và tạo trang tĩnh.
 
-### Long-term:
-- **PostgreSQL, NestJS:** Building scalable backend systems.
-- **React Native:** Mobile app development.
-- **Microservices & Golang:** Advanced architecture and performance optimization.
+### Dài hạn:
+- **PostgreSQL, NestJS:** Xây dựng các hệ thống backend có thể mở rộng.
+- **React Native:** Phát triển ứng dụng di động.
+- **Microservices & Golang:** Kiến trúc nâng cao và tối ưu hiệu suất.
 
-## 📬 Get in Touch
+## 📬 Liên Hệ
 - **Email:** [vuducminh366@gmail.com](mailto:vuducminh366@gmail.com)
