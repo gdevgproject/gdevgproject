@@ -6,12 +6,12 @@
 - **Backend:** Node.js, Express, MongoDB, MVC
 - **Version Control:** Git, GitHub
 
-## 🚀 Học Tiếp (Mục Tiêu Ngắn Hạn & Dài Hạn)
+## 🚀 Mục Tiêu Học Ngắn Hạn & Dài Hạn
 
-### Ngắn hạn:
+### Ngắn hạn 1 tháng:
 - **Next.js:**
 
-### Dài hạn:
+### Dài hạn 1 năm:
 - **PostgreSQL, NestJS:**
 - **React Native:**
 - **Microservices & Golang:**
