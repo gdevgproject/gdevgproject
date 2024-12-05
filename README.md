@@ -9,12 +9,12 @@
 ## 🚀 Học Tiếp (Mục Tiêu Ngắn Hạn & Dài Hạn)
 
 ### Ngắn hạn:
-- **Next.js:** Thành thạo SSR và tạo trang tĩnh.
+- **Next.js:**
 
 ### Dài hạn:
-- **PostgreSQL, NestJS:** Xây dựng các hệ thống backend có thể mở rộng.
-- **React Native:** Phát triển ứng dụng di động.
-- **Microservices & Golang:** Kiến trúc nâng cao và tối ưu hiệu suất.
+- **PostgreSQL, NestJS:**
+- **React Native:**
+- **Microservices & Golang:**
 
 ## 📬 Liên Hệ
 - **Email:** [vuducminh366@gmail.com](mailto:vuducminh366@gmail.com)
