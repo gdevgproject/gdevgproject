@@ -1,4 +1,4 @@
-# Vũ Đức Minh - Full Stack Web Developer (Intern)
+# Vũ Đức Minh - Full Stack Web Developer
 
 ## 🔑 Kỹ Năng Chính
 
@@ -6,7 +6,7 @@
 - **Backend:** Node.js, Express, MongoDB, MVC
 - **Version Control:** Git, GitHub
 
-## 🚀 Mục Tiêu Học Ngắn Hạn & Dài Hạn
+## 🚀 Mục Tiêu Tiếp Theo
 
 ### Ngắn hạn 1 tháng:
 - **Next.js:**
