@@ -12,8 +12,8 @@
 - **Next.js:**
 
 ### Dài hạn 1 năm:
-- **PostgreSQL, NestJS:**
 - **React Native:**
+- **PostgreSQL, NestJS:**
 - **Microservices & Golang:**
 
 ## 📬 Liên Hệ
