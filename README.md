@@ -10,9 +10,9 @@
 
 ### Ngắn hạn 1 tháng:
 - **Next.js:**
+- **React Native:**
 
 ### Dài hạn 1 năm:
-- **React Native:**
 - **PostgreSQL, NestJS:**
 - **Microservices & Golang:**
 
