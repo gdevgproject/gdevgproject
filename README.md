@@ -13,6 +13,7 @@
 - **React Native:**
 
 ### Dài hạn 1 năm:
+- **Angular**
 - **PostgreSQL, NestJS:**
 - **Microservices & Golang:**
 
