@@ -2,14 +2,13 @@
 
 ## 🔑 Kỹ Năng Chính
 
-- **Frontend:** JavaScript, React, TailwindCSS, MUI, HTML5, CSS3
+- **Frontend:** JavaScript, React, Next.js, TailwindCSS, MUI, HTML5, CSS3
 - **Backend:** Node.js, Express, MongoDB, MVC
 - **Version Control:** Git, GitHub
 
 ## 🚀 Mục Tiêu Tiếp Theo
 
 ### Ngắn hạn 1 tháng:
-- **Next.js**
 - **React Native**
 
 ### Dài hạn 1 năm:
