@@ -9,6 +9,7 @@
 ## 🚀 Mục Tiêu Tiếp Theo
 
 ### Ngắn hạn 3 tháng:
+- **supabase, firebase**
 - **Củng cố skills thực chiến**
 
 ### Dài hạn 1 năm:
