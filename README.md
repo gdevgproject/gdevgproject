@@ -9,12 +9,13 @@
 ## 🚀 Mục Tiêu Tiếp Theo
 
 ### Ngắn hạn 3 tháng:
-- **Microservices & Golang**
+- **IELTS 7.5**
 
 ### Dài hạn 1 năm:
 - **firebase**
 - **Angular**
 - **PostgreSQL, NestJS**
+- **Microservices & Golang**
 
 ## 📬 Liên Hệ
 - **Email:** [vuducminh366@gmail.com](mailto:vuducminh366@gmail.com)
