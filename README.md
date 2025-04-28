@@ -8,7 +8,7 @@
 
 ## 🚀 Mục Tiêu Tiếp Theo
 
-### Ngắn hạn 3 tháng:
+### Ngắn hạn 8 tháng:
 - **IELTS 7.5**
 
 ### Dài hạn 1 năm:
