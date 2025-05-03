@@ -2,7 +2,7 @@
 
 ## 🔑 Kỹ Năng Chính
 
-- **Frontend:** JavaScript, ReactJS, Next.js, Tailwind CSS, MUI, HeroUI, HTML5, CSS3, React Native + Expo
+- **Frontend:** JavaScript, ReactJS, Next.js, Tailwind CSS, ShadcnUI, HeroUI, HTML5, CSS3, React Native + Expo
 - **Backend:** Node.js, Express, MongoDB, MVC, supabase
 - **Version Control:** Git, GitHub
 
