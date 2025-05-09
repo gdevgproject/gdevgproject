@@ -11,11 +11,12 @@
 ### Ngắn hạn 8 tháng:
 - **IELTS 7.5**
 - **Microservices & Golang**
+- **PostgreSQL**
 
 ### Dài hạn 1 năm:
 - **firebase**
 - **Angular**
-- **PostgreSQL, NestJS**
+- **NestJS**
 
 ## 📬 Liên Hệ
 - **Email:** [vuducminh366@gmail.com](mailto:vuducminh366@gmail.com)
