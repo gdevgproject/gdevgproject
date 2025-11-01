@@ -6,7 +6,7 @@
 - **Backend:** supabase, cloudflare R2 (MySQL, MongoDB, PHP, ExpressJS)
 - **Version Control:** Git (GitHub, GitLab, Gitkraken)
 
-## 🚀 Mục Tiêu ngắn hạn 8 tháng:
+## 🚀 Mục Tiêu ngắn hạn 6 tháng:
 - **IELTS 7.5**
 
 ## 📬 Liên Hệ
