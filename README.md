@@ -1,13 +1,13 @@
-# Vũ Đức Minh - Full Stack Web Developer
+# Vũ Đức Minh — Full Stack Web Developer
 
-## 🔑 Tech Stack chính
+## 🔑 Main Tech Stack
 
 - **Frontend:** Next.js 16+, Tailwind CSS, ShadcnUI (ReactJS, JavaScript, TypeScript, React Native)
-- **Backend:** supabase, cloudflare R2
-- **Version Control:** Git (GitHub, GitLab, Gitkraken)
+- **Backend:** Supabase, Cloudflare R2
+- **Version Control:** Git (GitHub, GitLab, GitKraken)
 
-## 🚀 Mục Tiêu ngắn hạn 6 tháng:
+## 🚀 Short-term Goal (6 months)
 - **IELTS 7.5**
 
-## 📬 Liên Hệ
+## 📬 Contact
 - **Email:** [vuducminh366@gmail.com](mailto:vuducminh366@gmail.com)
