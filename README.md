@@ -8,6 +8,3 @@
 
 ## 🚀 Short-term Goal (6 months)
 - **IELTS 7.5**
-
-## 📬 Contact
-- **Email:** [vuducminh366@gmail.com](mailto:vuducminh366@gmail.com)
