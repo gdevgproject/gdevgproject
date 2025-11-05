@@ -2,7 +2,7 @@
 
 ## 🔑 Tech Stack chính
 
-- **Frontend:** Next.js 14+, Tailwind CSS, ShadcnUI (ReactJS, JavaScript, TypeScript, React Native)
+- **Frontend:** Next.js 16+, Tailwind CSS, ShadcnUI (ReactJS, JavaScript, TypeScript, React Native)
 - **Backend:** supabase, cloudflare R2
 - **Version Control:** Git (GitHub, GitLab, Gitkraken)
 
