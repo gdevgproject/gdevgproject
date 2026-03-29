@@ -1,10 +1,8 @@
-# Vũ Đức Minh — Full Stack Web Developer
+# Vũ Đức Minh — Senior Full Stack Web Developer
 
-## 🔑 Main Tech Stack
-
-- **Frontend:** Next.js 16+, Tailwind CSS, ShadcnUI (ReactJS, HTML&CSS, JavaScript, TypeScript, React Native)
-- **Backend:** Supabase, Neon, Cloudflare R2
-- **Version Control:** Git (GitHub, GitLab, GitKraken)
-
-## 🚀 Short-term Goal (6 months)
-- **IELTS 7.5**
+* **Frontend:** Next.js 16+, Tailwind CSS, ShadcnUI (ReactJS, HTML & CSS, JavaScript, TypeScript, React Native)
+* **Backend:** Supabase, Neon (PostgreSQL), Cloudflare R2
+  *(có thể sử dụng Next.js như fullstack với caching + database layer)*
+* **Backend (Specialized):** NestJS (REST API), Redis, PostgreSQL
+* **Version Control:** Git (GitHub, GitLab, GitKraken, SourceTree)
+* **Fluent English Communication** *
