@@ -5,4 +5,4 @@
   *(có thể sử dụng Next.js như fullstack với caching + database layer)*
 * **Backend (Specialized):** NestJS (REST API), Redis, PostgreSQL
 * **Version Control:** Git (GitHub, GitLab, GitKraken, SourceTree)
-* **Fluent English Communication** *
+* **Fluent English Communication**
