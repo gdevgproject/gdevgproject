@@ -1,4 +1,4 @@
-# Vũ Đức Minh — Middle Full Stack Web Developer
+# Vũ Đức Minh — Full Stack Web Developer
 
 * **Frontend:** Next.js 16+, Tailwind CSS, ShadcnUI, Radix (ReactJS, HTML & CSS, JavaScript, TypeScript v6+, React Native)
 * **Backend:** Supabase, Neon, Cloudflare R2
