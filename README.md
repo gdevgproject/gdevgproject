@@ -1,4 +1,4 @@
-# Vũ Đức Minh — Senior Full Stack Web Developer
+# Vũ Đức Minh — Junior Full Stack Web Developer
 
 * **Frontend:** Next.js 16+, Tailwind CSS, ShadcnUI, Radix (ReactJS, HTML & CSS, JavaScript, TypeScript v6+, React Native)
 * **Backend:** Supabase, Neon, Cloudflare R2
